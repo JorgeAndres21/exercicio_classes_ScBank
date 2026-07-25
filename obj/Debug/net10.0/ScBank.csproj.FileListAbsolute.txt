@@ -1,0 +1,14 @@
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\bin\Debug\net10.0\ScBank.exe
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\bin\Debug\net10.0\ScBank.deps.json
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\bin\Debug\net10.0\ScBank.runtimeconfig.json
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\bin\Debug\net10.0\ScBank.dll
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\bin\Debug\net10.0\ScBank.pdb
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.dll
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\refint\ScBank.dll
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.pdb
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ref\ScBank.dll
