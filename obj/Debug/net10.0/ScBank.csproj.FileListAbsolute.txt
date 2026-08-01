@@ -12,3 +12,4 @@ C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\o
 C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.pdb
 C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.genruntimeconfig.cache
 C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ref\ScBank.dll
+C:\Users\jorge\OneDrive\Documents\Programación\CURSO_SCTEC\back-end_C#\ScBank\obj\Debug\net10.0\ScBank.sourcelink.json
