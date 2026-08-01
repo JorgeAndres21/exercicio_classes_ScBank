@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02b5b44cd8ee2345514e6350d666c8389f76cd39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c30aac662579d4f010045d5b4340116b62f0dd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

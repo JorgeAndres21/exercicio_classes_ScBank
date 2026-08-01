@@ -16,14 +16,10 @@ namespace ScBank
             End = Console.ReadLine();
         }
 
-        public void imprimir()
+        public override void imprimir()
         {
-            Console.WriteLine("\n----------------");
-            Console.WriteLine("Nome: " + Nome);
-            Console.WriteLine("Telefone: " + Tel);
+            base.imprimir();
             Console.WriteLine("Endereço: " + End);
-            Console.WriteLine("CPF: " + Cpf);
-            Console.WriteLine("Email: " + Email);
             Console.WriteLine("----------------\n");
         }
     }

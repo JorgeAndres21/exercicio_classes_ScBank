@@ -79,5 +79,13 @@ namespace ScBank
                 Cpf = Console.ReadLine();
             }
         }
+        public virtual void imprimir()
+        {
+            Console.WriteLine("\n----------------");
+            Console.WriteLine("Nome: " + Nome);
+            Console.WriteLine("Telefone: " + Tel);
+            Console.WriteLine("CPF: " + Cpf);
+            Console.WriteLine("Email: " + Email);
+        }
     }
 }
